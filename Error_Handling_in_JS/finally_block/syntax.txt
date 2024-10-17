@@ -1,0 +1,13 @@
+try{
+    // some code
+}
+
+catch(error){
+
+    // logic what you will gives...
+}
+
+finally{
+
+    // logic write always runs.......
+}

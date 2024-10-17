@@ -1,0 +1,17 @@
+What is error Handling in JavaScript?
+
+Ans ===
+ Error handling in JavaScript is a process that helps identify and resolve issues in code.
+ It's a key part of JavaScript development that ensures applications are reliable, user-friendly, and maintainable. 
+
+ There are two types of ERROR handling in JavaScript...
+
+ 1. compile time Error.. 
+ this error before execution of js code... parsing stage of code 
+ example:
+         console.log(1; // it is syntax Error. show before the execution of code..
+ 2. Run time Error..
+ this error through the execution of code...
+
+example:
+         console.log(x);// it is ReferenceError: x is not defined..
